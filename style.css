@@ -1,0 +1,17 @@
+body{
+    background-color: plum;
+}
+
+.divClass1{
+border: purple 6px solid;
+color: maroon;
+text-align: center;
+font-family: cursive;
+}
+
+.divClass2{
+border: darkgreen 6px dotted;
+color: maroon;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
